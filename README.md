@@ -65,17 +65,13 @@ line-height:150%"><b><span lang="EN-US" style="font-family:&quot;Times New Roman
 &quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">：</span><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体"></span></p><p class="MsoListParagraphCxSpFirst" style="margin-left:21.0pt;mso-add-space:
 auto;text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;
-line-height:150%;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+line-height:150%;mso-list:l0 level1 lfo1"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体">Using deep learning method to deal with algorithmic trading</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-left:21.0pt;mso-add-space:
 auto;text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;
-line-height:150%;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+line-height:150%;mso-list:l0 level1 lfo1"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体">Combining the prediction of stock price with trading strategies</span></p><p class="MsoListParagraphCxSpLast" style="margin-left:21.0pt;mso-add-space:auto;
 text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;line-height:
-150%;mso-list:l0 level1 lfo1"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
-Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;
-</span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+150%;mso-list:l0 level1 lfo1"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-fareast-font-family:宋体">Truly restoring the trading mechanism of the stock
 market </span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
 line-height:150%"><b><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:宋体">Datasets</span></b><span style="font-family:宋体;mso-ascii-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:
@@ -88,20 +84,15 @@ line-height:150%"><b><span lang="EN-US" style="font-family:&quot;Times New Roman
 lists</span></b><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-fareast-font-family:宋体">:</span></p><p class="MsoListParagraphCxSpFirst" style="margin-left:21.0pt;mso-add-space:
 auto;text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;
-line-height:150%;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+line-height:150%;mso-list:l1 level1 lfo2"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体">Nov 10 - Nov 17: Paper searching, reading, building proper code environment</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-left:21.0pt;mso-add-space:
 auto;text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;
-line-height:150%;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+line-height:150%;mso-list:l1 level1 lfo2"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体">Nov 18 - Nov 24: Building up codebase and get down to datasets</span></p><p class="MsoListParagraphCxSpMiddle" style="margin-left:21.0pt;mso-add-space:
 auto;text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;
-line-height:150%;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;
-mso-bidi-font-family:Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+line-height:150%;mso-list:l1 level1 lfo2"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
 宋体">Nov 25 - Nov 30: Implement ideas</span></p><p class="MsoListParagraphCxSpLast" style="margin-left:21.0pt;mso-add-space:auto;
 text-align:justify;text-justify:inter-ideograph;text-indent:-21.0pt;line-height:
-150%;mso-list:l1 level1 lfo2"><!--[if !supportLists]--><span lang="EN-US" style="font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
-Wingdings"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;
-</span></span><!--[endif]--><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
+150%;mso-list:l1 level1 lfo2"><span lang="EN-US" style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
 mso-fareast-font-family:宋体">Dec 01 - Dec 07: Check the efficiency and accuracy
 of the model and fine tune the model，</span><span style="font-family: &quot;Times New Roman&quot;, serif; font-size: 12pt; text-indent: -21pt;">paper writing</span></p><p></p>
